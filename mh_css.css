@@ -1,0 +1,29 @@
+a:link{
+	color:grey;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: impact;
+}
+a:hover{
+	color:red;
+	text-decoration: underline;
+	font-size:20px;
+	font-family: impact;
+};
+a:visited{
+	color:violet;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: impact;
+};
+#wraped{
+	width:1000px;
+	margin: 0 auto;
+}
+body{
+	text-align : center;
+}
+ol,ul{
+	list-style: none;
+	margin: 0px;padding: 0px;
+}
